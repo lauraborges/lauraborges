@@ -1,4 +1,9 @@
-### Hi there 👋
+# Desenvolvedora Java
+Eu sou a Laura Borges👋, estudante de Ciências do Mar 🌊 (UNIFESP) e programação 🤓.
+
+Meu primeiro contato com a programação foi na faculdade, onde conheci a linguagem Python. Hoje estou em busca de aprimorar meu conhecimentos em JAVA.
+
+[![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-b-2126a1136/)
 
 <!--
 **lauraborges/lauraborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
