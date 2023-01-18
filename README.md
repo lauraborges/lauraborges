@@ -1,7 +1,7 @@
-# Desenvolvedora Java
+# Futura Desenvolvedora
 Eu sou a Laura Borges👋, estudante de Ciências do Mar 🌊 (UNIFESP) e programação 🤓.
 
-Meu primeiro contato com a programação foi na faculdade, onde conheci a linguagem Python. Hoje estou em busca de aprimorar meu conhecimentos em JAVA.
+Meu primeiro contato com a programação foi na faculdade, onde conheci a linguagem Python e SQL. Hoje estou em busca de aprimorar meu conhecimentos em JAVA.
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-b-2126a1136/) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
