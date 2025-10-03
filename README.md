@@ -1,5 +1,5 @@
 # Futura Desenvolvedora
-Eu sou a Laura Borges👋, estudante de Ciências do Mar 🌊 (UNIFESP) e programação 🤓.
+Eu sou a Laura Borges👋, estudante de Engenharia Ambiental 🌊 (UNIFESP) e programação 🤓.
 
 Meu primeiro contato com a programação foi na faculdade, onde conheci a linguagem Python e SQL. Hoje estou em busca de aprimorar meu conhecimentos em JAVA.
 
